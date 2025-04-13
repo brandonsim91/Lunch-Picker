@@ -70,7 +70,7 @@ const lunchSpots = [
     distance: "2 min walk",
     cuisine: "Japanese",
     address: "40 Pasir Panjang Rd, #02-38, Singapore 117383",
-    mapLink: "https://goo.gl/maps/2xGv1Y1Z1Z21"
+    mapLink: "https://maps.app.goo.gl/LgQTu6kNX6cvzESn9"
   },
   {
     name: "Liu Lang Mian Noodle Bar",
